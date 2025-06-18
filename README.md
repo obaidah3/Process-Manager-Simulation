@@ -100,7 +100,6 @@ process-manager/
 ├── process_manager.py       # 📝 Main simulation script
 └── README.md                # 📖 Project documentation
 ```
-
 ---
 
 ## 📊 Sample Output
