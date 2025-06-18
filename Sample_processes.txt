@@ -1,0 +1,5 @@
+# Sample processes.txt
+
+Alice | 001 | 85.0  | 3 | 2
+Bob   | 002 | 90.5  | 2 | 4
+Charlie | 003 | 78.2 | 4 | 3
